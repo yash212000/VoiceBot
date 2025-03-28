@@ -16,9 +16,11 @@ Interact with the bot, current listening time is 5 sec, you can change this by c
 Step 5
 Stop the code execution once you are done interacting with the bot
 
-Some important points:
-# Make sure the API key you are using has credits and is working properly
-# I have included some background about me so that it can answer questions as if I am answering
-# 
+# Some important points:
+1. Make sure the API key you are using has credits and is working properly.
+2. Install all the requirements mentioned in requirements.txt
+3. I have included some background about me so that it can answer questions as if I am answering.
+4. One another way of creating voice bot very easily is using ready-made APIs like elevenlab (along with openai api) but that would defy the purpose of development hence I have sticked to the basics and created the bot just with chatgpt's api.
+
 Incase of any queries, reach out to me via mail - yashvardhangoel21@gmail.com
 
